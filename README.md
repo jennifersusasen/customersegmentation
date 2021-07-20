@@ -1,2 +1,2 @@
 # customersegmentation
-Implement K-Means Clustering to find groups among customers
+Implement K-Means Clustering on Various Problems
