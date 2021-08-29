@@ -1,2 +1,2 @@
 # K-Means
-Implement K-Means Clustering on Various Problems
+Implement various algorithms on the customer segmentation problem
